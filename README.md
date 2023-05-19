@@ -1,5 +1,5 @@
 # applekeyboard
-more art for webdev
-credit to Jon Kantner
+#more art for webdev
+#credit to Jon Kantner
 
 
